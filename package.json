@@ -1,0 +1,13 @@
+{
+  "name": "push2country",
+  "title": "Push to Country (OONI)",
+  "version": "0.0.1",
+  "description": "Countly plugin to select push notitication targets by country code",
+  "main": "install.js",
+  "author": "Open Observatory of Network Interference (OONI) <contact@openobservatory.org>",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "private": true
+}
